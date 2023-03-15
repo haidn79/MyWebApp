@@ -4,11 +4,9 @@
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/bin/Debug/net5.0/MyWebApp.runtimeconfig.json
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/bin/Debug/net5.0/MyWebApp.runtimeconfig.dev.json
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/bin/Debug/net5.0/MyWebApp.dll
-/Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/bin/Debug/net5.0/ref/MyWebApp.dll
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/bin/Debug/net5.0/MyWebApp.pdb
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/bin/Debug/net5.0/MyWebApp.Views.dll
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/bin/Debug/net5.0/MyWebApp.Views.pdb
-/Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/MyWebApp.csprojAssemblyReference.cache
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/MyWebApp.AssemblyInfoInputs.cache
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/MyWebApp.AssemblyInfo.cs
@@ -17,7 +15,6 @@
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/MyWebApp.RazorAssemblyInfo.cache
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/MyWebApp.RazorAssemblyInfo.cs
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/staticwebassets/MyWebApp.StaticWebAssets.Manifest.cache
-/Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/staticwebassets/MyWebApp.StaticWebAssets.xml
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/scopedcss/bundle/MyWebApp.styles.css
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/MyWebApp.TagHelpers.input.cache
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/MyWebApp.TagHelpers.output.cache
@@ -37,3 +34,7 @@
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/MyWebApp.pdb
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/MyWebApp.genruntimeconfig.cache
 /Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/MyWebApp.csproj.CopyComplete
+/Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/bin/Debug/net5.0/MyWebApp.StaticWebAssets.xml
+/Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/bin/Debug/net5.0/MyWebApp
+/Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/MyWebApp.csproj.AssemblyReference.cache
+/Users/haidn/Downloads/Code/NEt/MyWebApp/MyWebApp/obj/Debug/net5.0/refint/MyWebApp.dll
